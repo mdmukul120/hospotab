@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetShare Hotspot</string>
+    <string name="tab_hotspot">হটস্পট (Hotspot)</string>
+    <string name="tab_network">কানেকশন (Network)</string>
+    <string name="tab_profiles">প্রোফাইল (Profiles)</string>
+    <string name="tab_sharing">শেয়ারিং (Web Share)</string>
+</resources>

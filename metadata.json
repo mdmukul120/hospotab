@@ -1,0 +1,6 @@
+{
+  "name": "NetShare Hotspot",
+  "description": "Share your connected network with custom hotspot name, password, QR code generator, and network inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
